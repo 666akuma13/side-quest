@@ -1,0 +1,8 @@
+node_modules/
+server/node_modules/
+server/quest.db
+server/quest.db-shm
+server/quest.db-wal
+server/*.log
+.env
+.DS_Store
